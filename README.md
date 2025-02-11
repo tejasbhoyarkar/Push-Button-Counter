@@ -53,7 +53,7 @@ How to Run the Project-->
 
 1. Clone this repository
 
-https://github.com/vaibhavdevangan/PUSH-BUTTON-COUNTER
+https://github.com/tejasbhoyarkar/Push-Button-Counter/blob/main/README.md
 
 2. Open the .ino file in Arduino IDE.
 
